@@ -1,4 +1,4 @@
-% team: THomas Carriero, Minjae Kung
+% team: Thomas Carriero, Minjae Kung
 -module(p1).
 -export([process_number/1, factorial/1]).
 
